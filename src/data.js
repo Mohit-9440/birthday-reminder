@@ -1,7 +1,7 @@
 export default [
     {
       id: 1,
-      name: 'Manish Sharma',
+      name: 'Manisha Sharma',
       age: 21,
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
@@ -29,7 +29,7 @@ export default [
     },
     {
       id: 5,
-      name: 'Karan Sehgal',
+      name: 'Karina Sehgal',
       age: 25,
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
